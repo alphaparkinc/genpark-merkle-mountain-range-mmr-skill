@@ -1,0 +1,14 @@
+{
+  "name": "genpark-merkle-mountain-range-mmr-skill",
+  "version": "1.0.0",
+  "description": "Append-only Merkle Mountain Range (MMR) cryptographic accumulator for flyclient proofs, blockchain state commitments, and history verification.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "merkle-mountain-range",
+    "mmr",
+    "accumulator",
+    "flyclient",
+    "blockchain-state"
+  ]
+}
